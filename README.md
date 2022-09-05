@@ -5,7 +5,7 @@
 
 - Linux Only
 
-## Steps how to run a WIFI_DOS!
+## Steps how to run the WIFI_DOS script!
 
 - download the repository via | git clone https://github.com/FreshCoffe/wifi_dos
 - or copy the script
