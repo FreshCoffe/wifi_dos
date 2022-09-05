@@ -1,4 +1,4 @@
-# Wifi_dos
+# wifi_dos
 
  A wifi dos script in python!
 
