@@ -7,7 +7,7 @@
 
 ## Steps how to run the WIFI_DOS script!
 
-- download the repository via | git clone https://github.com/FreshCoffe/wifi_dos
+- download the repository via | > git clone https://github.com/FreshCoffe/wifi_dos
 - or copy the script
 
 - cd into the folder wifi_dos
