@@ -10,10 +10,10 @@
 - download the repository via: `git clone https://github.com/FreshCoffe/wifi_dos`
 - or copy the script
 
-- cd into the folder wifi_dos
+- cd into the folder wifi_dos | `cd wifi_dos`
 - install the requirements | `sudo pip3 install -r requirements.txt`
 - install aircrack-ng |`sudo apt install aircrack-ng`
-- run the script | sudo python3 dwifi.py
+- run the script | `sudo python3 dwifi.py`
 
 ---
 
